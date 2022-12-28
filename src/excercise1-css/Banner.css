@@ -1,0 +1,14 @@
+.banner .content {
+  margin: 10px 0;
+  padding: 30px 20px;
+  background-color: rgb(232 236 239);
+}
+
+.banner .content h1 {
+  margin: 20px 0;
+}
+
+.banner .content .btn-banner {
+  background: blue;
+  color: #fff;
+}

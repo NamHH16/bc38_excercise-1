@@ -1,0 +1,21 @@
+.item {
+  margin: 20px 0;
+}
+
+.item .card {
+  text-align: center;
+}
+
+.item .card img {
+  width: 100%;
+}
+
+.item .card .card-body {
+  border-bottom: 1px solid #ccc;
+}
+
+.item .card .btn-card {
+  color: #fff;
+  background-color: blue;
+  margin: 10px 0;
+}

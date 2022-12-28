@@ -1,0 +1,27 @@
+.header {
+  background: #000;
+}
+
+.header .logo-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header .logo-nav a {
+  text-decoration: none;
+}
+
+.header .logo-nav .logo a {
+  color: #fff;
+  font-size: 20px;
+}
+
+.header .logo-nav .navbar a {
+  margin-right: 10px;
+  color: #ccc;
+}
+
+.header .logo-nav .navbar a:first-of-type {
+  color: #fff;
+}
